@@ -1,0 +1,725 @@
+{
+  "version": 1,
+  "skills": {
+    "ab-test-plan": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "ffb469ece1999469439cc14f83f08bdb92a661c405a11aa041d0b55a994adb75"
+    },
+    "ad-creative": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "e4f2ba55f30ce3bf2a1529a911b31b6fcd3b7fe59c7dbaaa1163a5f7710239b6"
+    },
+    "add-integration": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "ecc0614ac9485d32632124cdbb84416b9c87dfd660bac6e558e43a39b8108ea3"
+    },
+    "aeo-audit": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "0227589fcfbf461b52570137b61eaea8c7393808bd928abb55723f57f4e965a6"
+    },
+    "aeo-geo": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "318a523434407a162f8dd065836a68335ebd86075f2a37a9f8a88a19c48bbe3d"
+    },
+    "agency-dashboard": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "7d4ec7fa35864f75201bfccaf400d61bd435f31ee381bef098faf01fe98311ad"
+    },
+    "analytics-insights": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "bfac95dd406338b24facc5911ceda63c960deaed294cb94b26a23d8121e0b5f8"
+    },
+    "anomaly-scan": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "6cff9a4d5e7adc8be0ac1ade512bbf295a2f6776304a902874f582bc4b77724b"
+    },
+    "attribution-model": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "b00c63def2e8cc2a2f749a2658c4e675b0352f842f7d8a515b3397729224ef8a"
+    },
+    "attribution-report": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "09a08ac45b90802eb6a2a12d532cacb22d1ac938a0bff2e5765ee9f499599db8"
+    },
+    "audience-intelligence": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "844471a33527a74a9bb497e68c447472149c2e69635ed8e0d9f51726a38fdfe8"
+    },
+    "audience-profile": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "dfbe0741f1527f6a2b9a8a6aca7eb882470346bdd59e036f06cbd99d4f236d35"
+    },
+    "autopilot-status": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "c49fd7b546f48785cf527fe861fc77b8526277cea4e4246b9bf6bc4bf4f6a490"
+    },
+    "brand-guidelines": {
+      "source": "CommandCodeAI/agent-skills",
+      "sourceType": "github",
+      "computedHash": "cf41642f38f35bcae5bbf59215f0ee629d5f6a54b4811454f6cb93bc9b12b69e"
+    },
+    "brand-setup": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "a6ca4e3cf95ee18c8a3339d0d902ad175a9ae53eb178b65ba86a51c254a9bf03"
+    },
+    "budget-optimizer": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "07898bdd4d21e687d2719a58db8412f8f85cbaa1f89e93a9d16e7c946b24ed43"
+    },
+    "budget-tracker": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "3f57bfd324ddaf118faf9494a3f7f21093635595b0c87a0bd2bc7a6dfdd46666"
+    },
+    "campaign-orchestrator": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "e6224b920d27778a5a0520755bc24f6e5cf07dcaf810d01edb5219c55a954176"
+    },
+    "campaign-plan": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "327001008137322d6fffc9e3c34e9caf60c4803829327187d7a07a6a5a3fef4c"
+    },
+    "campaign-status": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "500353059223089c3e4c6fe1d156a57d239fbe74353eac2e8fc2ab7bfcb2a9b7"
+    },
+    "case-study-plan": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "ecd36945a275581ed1af6c106eac0f444aa448ebbf349b277d130e80b47b169d"
+    },
+    "churn-risk": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "192badc3efaf5f8d76351f8b06f4adcaaf9366684b38e9c6cc0868faf222b8c1"
+    },
+    "client-onboarding": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "79d92b1814b888cc8c95a63237bfafdc99c940f23923f2a336d6570133a3b717"
+    },
+    "client-proposal": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "efe4e1e778199b609d47ff2d9802eb88ffa3587e205ffd6f1e28241c95dd31f8"
+    },
+    "client-report": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "82fc300dbc33557f15c28aaa124968e5b25f07983d29d770ac656f6681ce810b"
+    },
+    "cohort-analysis": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "80dc9d3044781d42a0da50015d80d577509f27b882710e45eb843a09485afdd2"
+    },
+    "competitive-ads-extractor": {
+      "source": "CommandCodeAI/agent-skills",
+      "sourceType": "github",
+      "computedHash": "adc3ba60f71649c45193f27d32b9cc2cce07636c32b55c9dc9aeefc4c09f6b4b"
+    },
+    "competitor-alerts": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "375f2843f6fd17c6874ea158466b7e496b047da588177c428aa7c0b9340bc80b"
+    },
+    "competitor-analysis": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "8208359c33c8032f84a967c72a37a1ed3ccedad08ee01ab5d94a015d00bfd50b"
+    },
+    "competitor-monitor": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "15b5fe64b03e340ab9aba9e0a2787e716d71fa2eb4fab102d0f36abd6caacbb6"
+    },
+    "connect": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "9269a20f47862261b8b64f73bc30aa0abe87744c856b43f61ff6a75f72c5bb66"
+    },
+    "content-brief": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "5a4087bf5a09be7e4c9af993ed4d1e1aebc4a1945be796fbdd95966355a6410b"
+    },
+    "content-calendar": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "78a47bdc748e691b9c149b1bbfe4b41c4bf802235d1527f318e2b7c8242bc1f1"
+    },
+    "content-decay-scan": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "2808ba107ecf866baacdfd663baf076322d7b9e5518f09340281b2fbeb3bd165"
+    },
+    "content-engine": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "d8b6f7d108858d99ca3ee9038a702264dd908ba89f8cb5c5c52269918067891a"
+    },
+    "content-repurpose": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "03a8f274692eaf5ef122e07f77eeb2b28a63cea2051b6b61e1e479f6a104a24f"
+    },
+    "context-engine": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "e7112028747f251deeac49fbc4d3c2a496e5c36afb8d6c5dec4f8ff503d193c8"
+    },
+    "counter-narrative": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "268da8b05e1fa7648d6d21ea0cf458e0f2faa0e8c3b1b56235ca3cdfdb67ba48"
+    },
+    "creative-health": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "294e838351d896d0a510ef395a4804a0b0e93df2c357d53038c29cd059094815"
+    },
+    "creative-testing-framework": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "2934e7d5550f8bf77e15cea18bf87a89e3ca5c1ca60d89c2c5b5cf63fc642712"
+    },
+    "credential-switch": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "e558fabadfc1bcb298bd5448377151eae09c9ede972bce0b1fc8e6076bb449df"
+    },
+    "crisis-response": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "8b5075b4e2604116cf14092d5dbbe23d1c1885eabec23ad77569d5c2e1da946c"
+    },
+    "crm-sync": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "9215a5ff2a14d8d24d9e6af29e4aea641788f8680677786d731aa124d6e912d6"
+    },
+    "cro": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "9bc0267a03b5a85bedd518b1bc56168ab5d96d3edb2cbf8f65af8d390cd17382"
+    },
+    "dark-funnel": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "d9355ab7a0b613f53c2bd603cfbf433fc5e503fc30aaeb0c89472cd938593d63"
+    },
+    "data-export": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "5ade76c7625e0eb4d55e75c7e52cb88ea1a2d6afe3fd3d5398a56c19cc0babb3"
+    },
+    "data-import": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "800242a63d81487c744f6024bb04a457f31a8e69a1a64c11da36512b2405d264"
+    },
+    "deploy-to-vercel": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "computedHash": "3a0481591523c55ecfe2569b6b28b2dcbfa3742367667697219d29170981ad53"
+    },
+    "digital-pr": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "3824ad7b569fdf66b09211c3937b70b95adc5c69f96b5324a25526d556ae8f4f"
+    },
+    "domain-name-brainstormer": {
+      "source": "CommandCodeAI/agent-skills",
+      "sourceType": "github",
+      "computedHash": "52e568b37482d4606612cfe42b6cf1ccb260a1ba6936ac2b6defab5acdeea2f1"
+    },
+    "email-sequence": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "dea080b08a17a1f4f5125509d89e460742e30097277c408248679892124e37d9"
+    },
+    "emerging-channels": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "2c8d20dac2502fb0d53e81d029fc967a495948615850740573fce323936a23f4"
+    },
+    "entity-audit": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "9af51f483ec95c84d3d2b90c8f6d157dab3e62083bb3bbe83b17821eee3f6f4a"
+    },
+    "eval-config": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "1d1dd36923dd69ebae698cc845b94b27f91446d2edc48321038935464c6a7e5a"
+    },
+    "eval-content": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "2cec6ca32b919dc90b3b2a97a713ea357b5ca240c521eb54610cf9f8eda48a66"
+    },
+    "eval-suite": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "c04f140c0efb532020c698f03209b3e7d10ce71623217da84d40e24ea1cce4e3"
+    },
+    "exec-summary": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "1eb1d679999ce1e76b957c4ab1950ad822cc81f90cfb7b328c6a9ff9921f814b"
+    },
+    "executive-dashboard": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "7c3cbfc7eab05cd3f26072b3494e0d31d4dca274de71ee0c20f371aa02e0ab21"
+    },
+    "focus-group": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "b9b97208e02d1812698a0720682d736917941a47cef74f2da661aa6523ab1dde"
+    },
+    "funnel-architect": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "75f09cf649fe91a96aaa97a4dbc85ad0cd0fd51403704016e371badfbd560b7b"
+    },
+    "funnel-audit": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "59e22467c5c60d5de70066080fb85d08c7967c9a244d0226f3b81d5e40d54fac"
+    },
+    "geo-monitor": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "1806a9d5332d99abd16bd4956306edd0371886328fd8c9099f8ab9cb81c040be"
+    },
+    "growth-engineering": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "16eaadbda566ade860360404348be3aaa38aedd2f243eb9b639241da157129c0"
+    },
+    "help": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "3f153020fad60f73ce206eaed7b787410fb52deb75f10f06a5f1167b0e9bac11"
+    },
+    "hreflang-check": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "f29900a90fb655a000f1b388cd34e966a065f918b5fec38835cc974737514085"
+    },
+    "import-guidelines": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "cf32105ea91cb4958b5d467337b500ccd1ff678fabbfe587c99fcd6fb783dfc4"
+    },
+    "import-sop": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "b1e0ef8086e0d1985e57229fb462b7d37991d17e2f60a0793c0b70da62ae7392"
+    },
+    "import-template": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "75958e2b6eae0d27df5852db8b3967e79ccb4f39f132feb62f0b04d454296429"
+    },
+    "influencer-brief": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "46faadbeff70bfe00b248e2f7d8ed0b636194108b7244f331742833c85919af3"
+    },
+    "influencer-creator": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "e1c0026f986385acdd4dc64bab94dbca5e6ce3afc104f7992f478be3586974b1"
+    },
+    "integrations": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "fef3cd4d285406a5ab686885bd6a470792a9f7f2ecdf9f902e53b49270de2ae9"
+    },
+    "intelligence-report": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "8baadb4616d9b6ce8367aa3a53a3f17e15a9528da62f564e6a6ed132fdbb89b7"
+    },
+    "journey-design": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "c8f7173aca7dfb078541ef8ada0234a343eb46daa777426116fa19978b46dd06"
+    },
+    "keyword-research": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "95daa1fd4dcb36eea3156ae0b9c4343c45b6527c0249abcf6e64725878bee214"
+    },
+    "landing-page-audit": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "78d11f7e8bb3200c2e7f6c1af6612bce5eb44e2e3de6abcba05173dba7ccbe3f"
+    },
+    "language-audit": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "3b0acbdaf65ff9e1565e0e9df5d5f9ee6da1d8d460b5b6a62975993fc97d439e"
+    },
+    "language-config": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "5cd98750055caea09bdf82416addd7e7ea59261063a98670e83d926858e5c25f"
+    },
+    "launch-ad-campaign": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "d7b9eba2dc9eb34cf0037b181a981437033b0824c27514fd9bf0dac8f1d86fc1"
+    },
+    "launch-plan": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "0b6023f865a75c9bc4b55ab00e88d0afd6886e4097558458938d82bd1296d259"
+    },
+    "lead-import": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "456523f6aebf64a1461c74e49dbc0aa808f9d21df0cdf781fd90ef1c3f10dd6c"
+    },
+    "lead-research-assistant": {
+      "source": "CommandCodeAI/agent-skills",
+      "sourceType": "github",
+      "computedHash": "3300bbb81db602444370e66baa7c5395a8cbd9bf11f23c0ecbce1568f0ed9f05"
+    },
+    "learn": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "2144474fde9ccb9bbe0dae7dcfb62ed6647ccbcbcc7be2aead679030f212c61b"
+    },
+    "live-dashboard": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "678dad53fb3e8208ef0d617d8de761436695b30ef2c85df6cef70ecde6f5b416"
+    },
+    "local-seo": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "97b45541f80ede3fa7c2e882c6511912b7b85b33640251a65b52e773d0ef8bae"
+    },
+    "local-seo-audit": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "ec0b280491eba2200f2bc1e8cc2fb4b703d24bd6c7ddda410930e158a1300184"
+    },
+    "localize-campaign": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "a70e71d941f7da346d97c7173072a9e00a4d6a42f6a3ce62218aa7f0f386b17e"
+    },
+    "loop-detect": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "7bda998701163eac1555ed003595e4ccbced976c33e5df611b0171c6ad894d5c"
+    },
+    "market-weather": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "16cd8b47502df9be97e59b628790e494b2bc858b3025b74827c4c9ad25030dfd"
+    },
+    "marketing-automation": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "e7ac622704d8dbc8702b5c55ac2c709c6f1a06cc92b192ee091da708efcaeb70"
+    },
+    "martech-audit": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "dfb6d8f9b0dddba8d8585125ee680767b83b0f4a1bc07c92d665367d399cb9d1"
+    },
+    "media-plan": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "f2bb7ebfb8efafbf1b57a044e9d8e8ced140eb96efee2c06999804946dc227c5"
+    },
+    "message-test": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "8d03cd0a63989100f07076f6c7262cf6f707afa710f9d28bfc3d81ecd2af5b5c"
+    },
+    "multilingual-score": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "4ce01859bf84458d8c613ec83c24aaec818568099d72f785b24a88860b95818e"
+    },
+    "narrative-landscape": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "285ba3bff0eb7c2ca44c436f8b4e79301ea31c52684a64500c91527f053c0b2a"
+    },
+    "narrative-tracker": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "aeb6d66f8850883a25f269894300c1e165c36012ca7402ffc979f6c814e4ff09"
+    },
+    "paid-advertising": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "6db59ed9913c31808479a682f296b3ddacc1a891ac480c8624f56f60dab9152a"
+    },
+    "pdf-report": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "d25921b0671fb344185f296d3250f6a6b1b5e5cf9272bc00a012ec17770b8219"
+    },
+    "performance-check": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "f2be30b018494102a1c87c8be7842cbdaee1225324503ef3f0e24897780417e1"
+    },
+    "performance-report": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "1e5b5a4c04f4faafd45406a812ac9bc6576f38a63b330c1ea97fa2d72f9a76e0"
+    },
+    "pipeline-update": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "2b00028961c4e03fc94fa3d230a9f776d4e02138f6d6400bd554ff7febbcde29"
+    },
+    "pr-pitch": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "a641838a62f23ab5402675a23597a0894953c8c8251c77e3d874c08b55731e95"
+    },
+    "pricing-test": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "9d5530cd68e39e703baf23e295e27e5e1c7920b416af3aef24588ae7874e7ec6"
+    },
+    "prompt-test": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "548a6e85a07301f087224f2acb3ddf9abd2188101281b41566242e91d3a273cd"
+    },
+    "publish-blog": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "57b7b69a0c0e30d27f9b802717fc8feb1a9e15395c7b29a4d72a3c533e528509"
+    },
+    "qbr-plan": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "bb30a3f3b0d83a3778bc6b1bb75067183b8a50a30c9e98c86fb28c52083fced7"
+    },
+    "quality-report": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "c3ac7e7782cb73535850ff95ea47d6df8d46f061116b081ab2cf1b704b3a3deb"
+    },
+    "rank-monitor": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "7a02fac1a441fe3b2079e61a9b42c73ffca42a1dcd4ca79ec932b20fae8c5219"
+    },
+    "recall": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "1f27a4e4a6720d387dd55e00ecc517dd6708ae84abc37ed02c9e38cf39a0e2f8"
+    },
+    "redirect-manager": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "f216d122ba437c2787b52a0efaa0fb52540a5d8290b0a27f0c36bb42b7248b70"
+    },
+    "region-config": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "ef1f7839afe68fb94217f2eaf6e8e29fd799b7cf3f2c82669b731df0b2f7a274"
+    },
+    "reputation-management": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "d8175f299014d15d2cfb1b2b8f05d8fdaccb3d9106636a4f6291fc12c9db0d03"
+    },
+    "retargeting-strategy": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "bdff1a8e91f8119c8b638bf5f56a35529f7f40ccd631771738e2f0bd3ee006d2"
+    },
+    "review-response": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "da7f9b14822e98830c527b05131c79ee16b1e8b169f8514a4ba3c1f73f4c5ee2"
+    },
+    "roi-calculator": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "35433e017b63e74421d90659826b1dbb3d60e2be88094bda11599e4aae43f779"
+    },
+    "save-knowledge": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "356ff47978ec2addd4b63996928cc15f3fca7e7cae8cf8d276141707ed8e5f11"
+    },
+    "schedule-social": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "70aa1dbc88ecfd587f6464696a9303c265d0a0d72a5636776fdcd574ec924513"
+    },
+    "search-knowledge": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "598fa7b100b6013dc4732e8d7a55a43de497805bd2e803d9864e0638c7b0c9a7"
+    },
+    "segment-audience": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "40e9d2624994fb97f15d2bba290ccb6296ae06231e738d272083836668ab4329"
+    },
+    "send-email-campaign": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "707e3df7bf045f0dc89fc773b21b56403b9fc508970062cb5e4d2a6e606c85ab"
+    },
+    "send-notification": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "cb88bcca0c8b3b5a3662302135c698b3d288dbbac9c84e758ba4c8e4ac68cf15"
+    },
+    "send-report": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "ff6de02f30a07a461d9d5d7aae94ccb359149d9b2d635c639c019bef0dcab06e"
+    },
+    "send-sms": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "314d081e40d29a309c285e6f771ad702118767fb35bd46338d54afff8dd557f0"
+    },
+    "seo-audit": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "0e673997c612e72f385cced29ecc828b966285660c498180c2c4f64b535caf46"
+    },
+    "seo-implement": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "f260960b3fe81e5504fa10a2f2b2fb52ad73505d8b6995d84d82e717f0dbe22b"
+    },
+    "serp-tracker": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "662507164e071af0cca4e2e8ae184163770aed9b6934baf36ec3fefa875d806b"
+    },
+    "share-of-voice": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "d2d45b12c31605a07ffbb808f5ff764a8c3e17b7ccf53383c828518a4e7ca2cd"
+    },
+    "simulate": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "60d82b5aa8ca1cbf5bcad7f3cd7fa592429f0abed6c5637e1f1a204bd5804de0"
+    },
+    "social-strategy": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "bd17af54d78b699c199147983b462d44db1a2967c151d101ec680044cb0b664c"
+    },
+    "sop-library": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "2da7997f39dcd5a9d1588e0e71b6e18a647cab4263921212bf4fcb429cb3de6e"
+    },
+    "switch-brand": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "6ac8f8361e012e595472b1297aa1145d0622cb53d51c68dc127859a1d5ddcdf5"
+    },
+    "sync-memory": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "74e0e50c79fe78acd6a107179707ddc4cd2f2ea708c9066c4a9ec38e7827ecb3"
+    },
+    "team-assign": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "05dc1ccc0c47304cbc64a3f953b1f4562fa2b9fbaa4c3bb82c520639e286d18d"
+    },
+    "tech-seo-audit": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "885016abd544373265fe4902da0a76492a29e82e713dd6538b28b7af77e66e8b"
+    },
+    "technical-seo": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "91112e926aa00f38d1066e2b8597cedc122e24343240644454bd18fc8fe73756"
+    },
+    "translate-content": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "4de1fe812dfd0ebeb48f54899a6ab0653d10341d08733ba6a0a98d42e73aec87"
+    },
+    "validate-output": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "449d0ab3110479c2b8a10a6bdbc20f11560eb620e419418741f876b9732c5e3e"
+    },
+    "vercel-composition-patterns": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "computedHash": "10eb4ec94577b79ae98c63ce3e7f35f8a6a06436a4011bff083b397de6960eeb"
+    },
+    "vercel-react-best-practices": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "computedHash": "3ff06f0712886f7c2660d6746856c22d3127bd6568ddde29ddad8b72dbaaa226"
+    },
+    "vercel-react-native-skills": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "computedHash": "a804b4e848059822638c390359976f7021380bcefb1469d473aa4e9202c15ecb"
+    },
+    "verify-claims": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "612cf819064454bdda7433f0cdfdb2730a0ded14baba6410e95f62e718ad85d2"
+    },
+    "video-script": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "93ed96a75d64bbafb0eebcd32e8692cf9f1b36aeb93e85614c60887f5a976ea3"
+    },
+    "web-design-guidelines": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "computedHash": "d8e7d3afe37dcc8a97b99ffb5afdb4d0919ae0092ea8b68f44eb201f035e33ac"
+    },
+    "webinar-plan": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "7ed4fdc30538532daac6c279423401450273b20c0768c661782ea952dadf3638"
+    },
+    "what-if": {
+      "source": "indranilbanerjee/digital-marketing-pro",
+      "sourceType": "github",
+      "computedHash": "479a99a3d76e02e50be3994816a0f46cd70e91e4d3c33fb4a4b09523ce255cc6"
+    }
+  }
+}
