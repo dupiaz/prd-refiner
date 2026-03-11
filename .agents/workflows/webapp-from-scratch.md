@@ -58,15 +58,19 @@ Mỗi bước đánh dấu:
 
 ## Phase 4: Tech Stack & Architecture (Kiến trúc kỹ thuật)
 
-| # | Bước | Mode | Skill(s) |
-|---|------|------|----------|
-| 4.1 | Chọn tech stack (framework, DB, hosting) | 🤖 Auto | `spec-driven-development` |
-| 4.2 | Thiết kế API architecture | 🤖 Auto | `api-design` |
-| 4.3 | Thiết kế database schema | 🤖 Auto | `supabase-postgres-best-practices`, `neon-postgres` |
-| 4.4 | Setup Docker development environment | 🤖 Auto | `docker-development`, `docker-devcontainer-windows` |
-| 4.5 | **Review & approve architecture** | 👤 HITL | — |
+| # | Bước | Mode | Skill(s) | Output |
+|---|------|------|----------|--------|
+| 4.1 | Chọn tech stack (framework, DB, hosting) | 🤖 Auto | `vercel-react-best-practices` | Tech stack table |
+| 4.2 | Thiết kế API architecture | 🤖 Auto | `api-design` | API routes, error format, pagination |
+| 4.3 | Thiết kế database schema (ERD, SQL, RLS, indexes) | 🤖 Auto | `supabase-postgres-best-practices`, `neon-postgres` | SQL migrations, RLS policies |
+| 4.4 | **Đề xuất kiến trúc thư mục — chọn phương án** | 👤 HITL | `vercel-react-best-practices`, `vercel-composition-patterns`, `brainstorming` | Scoring matrix, quyết định |
+| 4.5 | Tạo tài liệu phương pháp luận (User Story → API → DB mapping) | 🤖 Auto | — | Methodology doc (sư phạm) |
+| 4.6 | Setup Docker development environment | 🤖 Auto | `docker-development`, `docker-devcontainer-windows` | docker-compose, devcontainer |
+| 4.7 | **Review & approve toàn bộ architecture** | 👤 HITL | — | Final sign-off |
 
-**Quality Gate**: Tech stack locked, API spec drafted, DB schema designed.
+> **Bước 4.4 — Chi tiết**: Agent tạo ≥ 2 phiên bản cấu trúc thư mục (ví dụ: Horizontal vs Vertical Slice), kèm bảng so sánh có trọng số, kịch bản thực tế, và phân tích rủi ro. User chọn phương án trước khi agent tiếp tục dựng chi tiết.
+
+**Quality Gate**: Tech stack locked, API spec drafted, DB schema designed, project structure decided.
 
 ---
 
@@ -191,27 +195,28 @@ Mỗi bước đánh dấu:
 | Metric | Giá trị |
 |--------|---------|
 | **Tổng phases** | 12 |
-| **Tổng bước** | 67 |
-| **🤖 Auto steps** | 53 (79%) |
-| **👤 HITL checkpoints** | 14 (21%) |
+| **Tổng bước** | 69 |
+| **🤖 Auto steps** | 54 (78%) |
+| **👤 HITL checkpoints** | 15 (22%) |
 | **Skills sử dụng** | ~70 skills |
 
-### HITL Checkpoints (14)
+### HITL Checkpoints (15)
 
 1. Phase 1.4 — Validate ý tưởng
 2. Phase 2.4 — Review PRD
 3. Phase 3.5 — Review wireframes
-4. Phase 4.5 — Review architecture
-5. Phase 5.5 — Test auth flow
-6. Phase 6.6 — Feature QA
-7. Phase 7.3 — Test payment
-8. Phase 8.6 — Review security
-9. Phase 9.6 — Staging review
-10. Phase 10.6 — Monitor launch
-11. Phase 11.6 — Growth review
-12. Phase 12.6 — QBR
-13. (Implicit) Any step can escalate to HITL nếu AI không chắc chắn
-14. (Implicit) User có thể interrupt bất kỳ lúc nào
+4. **Phase 4.4 — Đề xuất & chọn kiến trúc thư mục** ← MỚI
+5. Phase 4.7 — Review toàn bộ architecture
+6. Phase 5.5 — Test auth flow
+7. Phase 6.6 — Feature QA
+8. Phase 7.3 — Test payment
+9. Phase 8.6 — Review security
+10. Phase 9.6 — Staging review
+11. Phase 10.6 — Monitor launch
+12. Phase 11.6 — Growth review
+13. Phase 12.6 — QBR
+14. (Implicit) Any step can escalate to HITL nếu AI không chắc chắn
+15. (Implicit) User có thể interrupt bất kỳ lúc nào
 
 ### Cách invoke
 
