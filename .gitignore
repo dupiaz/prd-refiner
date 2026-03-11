@@ -30,6 +30,10 @@ Desktop.ini
 dist/
 build/
 out/
+.next/
+
+# Docker
+docker-compose.override.yml
 
 # Logs
 *.log

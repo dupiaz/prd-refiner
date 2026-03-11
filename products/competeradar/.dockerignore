@@ -1,0 +1,50 @@
+# Git
+.git
+.gitignore
+
+# Dependencies (rebuilt in container)
+node_modules
+
+# Build output (rebuilt in container)
+.next
+out
+dist
+build
+
+# Development files
+.devcontainer
+docker-compose*.yml
+*.test.*
+*.spec.*
+__tests__
+coverage
+.env.local
+.env.development
+
+# IDE
+.vscode
+.idea
+*.swp
+.DS_Store
+
+# Docs & non-essential
+*.md
+LICENSE
+docs
+
+# Secrets — NEVER include
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Agent / AI config
+.agents
+.agent
+.roo
+.windsurf
+.gemini
+
+# Skills lock
+skills-lock.json

@@ -891,9 +891,9 @@ sequenceDiagram
 
 | Tài liệu | Nội dung |
 |-----------|---------|
-| [Horizontal (Layer-based)](file:///d:/github/prd-refiner/docs/products/competeradar/phase4-structure-horizontal.md) | `app/` + `components/` + `lib/` — ~95 files |
-| [Vertical Slice (Feature-based)](file:///d:/github/prd-refiner/docs/products/competeradar/phase4-structure-vertical.md) | `app/` + `features/` + `shared/` — ~130 files |
-| [Đánh Giá & Quyết Định](file:///d:/github/prd-refiner/docs/products/competeradar/phase4-architecture-decision.md) | Scoring matrix, 3 scenario tests, rủi ro, quyết định cuối |
+| [Horizontal (Layer-based)](file:///d:/github/prd-refiner/products/competeradar/docs/phase4-structure-horizontal.md) | `app/` + `components/` + `lib/` — ~95 files |
+| [Vertical Slice (Feature-based)](file:///d:/github/prd-refiner/products/competeradar/docs/phase4-structure-vertical.md) | `app/` + `features/` + `shared/` — ~130 files |
+| [Đánh Giá & Quyết Định](file:///d:/github/prd-refiner/products/competeradar/docs/phase4-architecture-decision.md) | Scoring matrix, 3 scenario tests, rủi ro, quyết định cuối |
 
 ### Environment Variables
 

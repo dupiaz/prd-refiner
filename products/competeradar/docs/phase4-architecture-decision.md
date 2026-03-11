@@ -4,8 +4,8 @@
 **So sánh**: Horizontal (Layer-based) vs Vertical Slice (Feature-based)  
 **Skills sử dụng**: `brainstorming`  
 **Tham chiếu**:
-- [Horizontal version](file:///d:/github/prd-refiner/docs/products/competeradar/phase4-structure-horizontal.md)
-- [Vertical version](file:///d:/github/prd-refiner/docs/products/competeradar/phase4-structure-vertical.md)
+- [Horizontal version](file:///d:/github/prd-refiner/products/competeradar/docs/phase4-structure-horizontal.md)
+- [Vertical version](file:///d:/github/prd-refiner/products/competeradar/docs/phase4-structure-vertical.md)
 
 ---
 

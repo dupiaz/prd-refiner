@@ -11,6 +11,41 @@ Mỗi bước đánh dấu:
 
 ---
 
+## Conventions — Monorepo Structure
+
+Workspace này hỗ trợ **nhiều products**. Mỗi product nằm trong `products/<product-name>/`:
+
+```
+prd-refiner/                         ← Workspace root
+├── .agents/                         ← Skills & workflows (shared)
+├── docs/
+│   └── sessions/                    ← Session logs (cross-product)
+├── products/
+│   ├── competeradar/                ← Product A
+│   │   ├── docs/                    ← Design docs (Phase 1-4)
+│   │   ├── src/                     ← Source code (Phase 5+)
+│   │   ├── docker-compose.yml       ← Dev services
+│   │   ├── Dockerfile               ← Production build
+│   │   ├── .env.example             ← Env vars template
+│   │   └── .dockerignore            ← Docker build exclusions
+│   └── <future-product>/            ← Product B...
+├── .gitattributes                   ← Repo-wide (LF line endings)
+└── .gitignore                       ← Repo-wide
+```
+
+| Loại tài nguyên | Vị trí | Phạm vi |
+|-----------------|--------|--------|
+| Design docs (Phase 1-4) | `products/<product>/docs/` | Per-product |
+| Source code (Phase 5+) | `products/<product>/src/` | Per-product |
+| Docker configs | `products/<product>/` | Per-product |
+| Session logs | `docs/sessions/` | Cross-product |
+| Skills & workflows | `.agents/` | Shared |
+| `.gitignore`, `.gitattributes` | Root | Repo-wide |
+
+> **Quy tắc**: Tất cả tài nguyên thuộc 1 product phải nằm trong `products/<product>/`. Extract sang repo riêng bất cứ lúc nào bằng cách copy folder đó.
+
+---
+
 ## Phase 1: Ideation & Validation (Ý tưởng & Xác thực)
 
 | # | Bước | Mode | Skill(s) |
@@ -78,7 +113,7 @@ Mỗi bước đánh dấu:
 
 | # | Bước | Mode | Skill(s) |
 |---|------|------|----------|
-| 5.1 | Scaffold project (Next.js / Vite) | 🤖 Auto | `vercel-react-best-practices` |
+| 5.1 | Scaffold project trong `products/<product>/` (Next.js / Vite) | 🤖 Auto | `vercel-react-best-practices` |
 | 5.2 | Setup authentication (Better Auth) | 🤖 Auto | `better-auth-create-auth`, `better-auth-best-practices` |
 | 5.3 | Connect database (Supabase/Neon) | 🤖 Auto | `supabase-postgres-best-practices`, `neon-postgres` |
 | 5.4 | Setup CI/CD pipeline | 🤖 Auto | `github-actions` |
